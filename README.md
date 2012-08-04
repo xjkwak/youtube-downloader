@@ -5,5 +5,5 @@ A bash script for downloading a list of youtube URLs using the command youtube-d
 
 Requirement
 ==========
-Youtube Dl - (sudo apt-get install youtube-dl)
+Youtube Dl - (sudo apt-get install youtube-dl).
 
